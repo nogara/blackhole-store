@@ -1,8 +1,8 @@
 $LOAD_PATH.unshift 'lib'
 
 Gem::Specification.new do |s|
-  s.name              = "blackhole-store"
-  s.version           = "0.3.1"
+  s.name              = "hands-blackhole-store"
+  s.version           = "0.3.2"
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "A cache store that stores nothing and always reads nil"
   s.homepage          = "http://github.com/bandito/blackhole-store"
